@@ -1,0 +1,1 @@
+let pets = {Shadow: 'dog', Tom: 'cat', Jerry: 'mouse', Bugs: 'bunny', Daffy: 'duck'};
