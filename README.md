@@ -1,1 +1,1 @@
-# JS100_Book_Exercises pulling code practice
+# JS100_Book_Exercises
